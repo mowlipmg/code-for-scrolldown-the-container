@@ -1,0 +1,6 @@
+<style>
+  .xg-mega-menu-container {
+  height: 100vh;
+  overflow-y: auto;
+  }
+  </style>
